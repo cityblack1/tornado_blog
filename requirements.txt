@@ -1,5 +1,5 @@
 backports-abc==0.5
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 futures==3.2.0
 gevent==1.4.0
